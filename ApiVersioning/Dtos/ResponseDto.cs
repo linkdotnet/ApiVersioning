@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ApiVersioning.Dtos;
+﻿namespace ApiVersioning.Dtos;
 
 public class ResponseDto
 {

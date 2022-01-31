@@ -7,7 +7,6 @@ namespace ApiVersioning.Controllers.V1;
 [ApiController]
 public class UserController : ControllerBase
 {
-    [Route("user")]
     [HttpGet]
     public ResponseDto GetUser()
     {
